@@ -1,0 +1,24 @@
+state={
+	id=817	name="STATE_817"
+	manpower = 565230
+	state_category=town
+	provinces={ 2208 8169 8255 5143 }
+	resources={
+		wood=18
+		}
+	history={
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		buildings={
+				infrastructure=3
+				}
+			}
+		buildings={
+			infrastructure=3
+			}
+		}
+	}
+

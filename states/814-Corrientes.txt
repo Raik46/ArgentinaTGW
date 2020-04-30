@@ -1,0 +1,26 @@
+state={
+	id=814	name="STATE_814"
+	manpower = 1102650	state_category=town
+	provinces={ 12964 8238 8187  }
+	resources={
+		wood=25
+		}
+	history={
+		victory_points={ 12964 5 }
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		victory_points={ 11007 1 }
+			buildings={
+				infrastructure=3
+				industrial_complex=1
+				}
+			}
+		buildings={
+			infrastructure=3
+			industrial_complex=1
+			}
+		}
+	}

@@ -1,0 +1,23 @@
+state={
+	id=823
+	name="STATE_823"
+	manpower = 35654	state_category=rural
+	provinces={ 12952 5173 12946 }
+	resources={
+		oil=12
+		}
+	history={
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		buildings={
+				infrastructure=2
+				}
+			}
+		buildings={
+			infrastructure=2			}
+		}
+	}
+

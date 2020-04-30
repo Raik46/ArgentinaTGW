@@ -1,0 +1,2 @@
+ATTENTION
+The bitmap file called "provinces" is missing because github won't let me upload files that weigh more than 25mb, and that one weighs 33mb, how can I upload it? sorry it's my first time on github :(

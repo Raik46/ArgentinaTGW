@@ -1,0 +1,24 @@
+state={
+	id=813
+	name="STATE_813"
+	manpower = 26513
+	state_category=rural
+	provinces={ 11007 }
+	resources={
+		rubber=12
+		}
+	history={
+		victory_points={ 11007 1 }
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		victory_points={ 11007 1 }
+			buildings={
+				infrastructure=2				}
+			}
+		buildings={
+			infrastructure=2			}
+		}
+	}

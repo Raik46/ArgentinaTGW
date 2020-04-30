@@ -1,0 +1,21 @@
+ideas = {
+
+	country = {
+		barn_of_the_world = {
+			
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				monthly_population = 0.10
+                                global_building_slots_factor 0.04
+                                
+			}
+		}

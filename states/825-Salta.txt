@@ -1,0 +1,25 @@
+state={
+	id=825	name="STATE_825"
+	manpower = 115645	state_category=rural
+	provinces={ 8195 10965 10944 }
+	resources={
+		aluminium=12
+		}
+	history={
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		buildings={
+				infrastructure=3
+				industrial_complex=1
+				}
+			}
+		buildings={
+			infrastructure=3
+			industrial_complex=1
+			}
+		}
+	}
+

@@ -1,0 +1,26 @@
+state={
+	id=509
+	name="STATE_509" # Chaco Australis
+	manpower = 704241
+	state_category=town
+	provinces={ 2106 5213 10986 }
+	resources={
+		wood=59
+		steel=10
+		tungsten=41
+		}
+	history={
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+			buildings={
+				infrastructure=3
+				}
+			}
+		buildings={
+			infrastructure=3
+			}
+		}
+	}

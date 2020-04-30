@@ -1,0 +1,25 @@
+state={
+	id=816
+	name="STATE_816"
+	manpower = 26513
+	state_category=rural
+	provinces={ 12922 12943 }
+	resources={
+		tungsten=15		}
+	history={
+		victory_points={ 12922 1 }
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		victory_points={ 12922 1 }
+			buildings={
+				infrastructure=2
+				}
+			}
+		buildings={
+			infrastructure=2			}
+		}
+	}
+

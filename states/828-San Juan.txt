@@ -1,0 +1,23 @@
+state={
+	id=828	name="STATE_828"
+	manpower = 95235	state_category=rural
+	provinces={ 2179 10964 }
+	resources={
+		steel=12
+		}
+	history={
+		owner=ARG
+		add_core_of=ARG
+		1936.1.1={ 
+			owner=ARG
+			add_core_of=ARG
+ 		buildings={
+				infrastructure=3
+				}
+			}
+		buildings={
+			infrastructure=3
+			}
+		}
+	}
+
